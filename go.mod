@@ -1,3 +1,3 @@
-module gitlab.com/zhangcl/openapi-demo
+module github.com/zhangcunli/openapi-demo
 
-go 1.19
+go 1.22
